@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: forge
+  labels:
+    name: forge
+    component: ci-cd
